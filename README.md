@@ -22,6 +22,7 @@ Pseudocode:
 - Print length in cm (LCM)
 
 ### _Answer_
+![Exercise1](/flowchart/exercise1.png)
 
 ## Exercise 2
 

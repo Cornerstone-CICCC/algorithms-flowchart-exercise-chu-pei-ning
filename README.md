@@ -36,6 +36,8 @@ Pseudocode:
 
 ### _Answer_
 
+![Exercise2](/flowchart/exercise2.png)
+
 ## Exercise 3
 
 Write an algorithm and draw a flowchart that will read three numbers and prints the value of the largest number.
@@ -44,11 +46,15 @@ Write an algorithm and draw a flowchart that will read three numbers and prints 
 
 ### _Answer_
 
+![Exercise3](/flowchart/exercise3.png)
+
 ## Exercise 4
 
 Write an algorithm and draw a flowchart to check the three number inputs whether a triangle is possible or not.
 
 ### _Answer_
+
+![Exercise4](/flowchart/exercise4.png)
 
 ## Exercise 5
 
@@ -67,3 +73,4 @@ Display the grades as per the table given below:
 
 ### _Answer_
 
+![Exercise5](/flowchart/exercise5.png)
